@@ -1,0 +1,2469 @@
+=== canary_level3_off_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-off-vus10-run1" deleted from demo namespace
+=== canary_level3_off_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-off-vus10-run2" deleted from demo namespace
+=== canary_level3_off_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run3" deleted from demo namespace
+=== canary_level3_off_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-off-vus10-run4" deleted from demo namespace
+=== canary_level3_off_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-off-vus10-run5" deleted from demo namespace
+=== canary_level3_off_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-off-vus10-run6" deleted from demo namespace
+=== canary_level3_off_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run7" deleted from demo namespace
+=== canary_level3_off_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run8" deleted from demo namespace
+=== canary_level3_off_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-off-vus10-run9" deleted from demo namespace
+=== canary_level3_off_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-off-vus10-run10" deleted from demo namespace
+=== canary_level3_off_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-off-vus10-run11" deleted from demo namespace
+=== canary_level3_off_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run12" deleted from demo namespace
+=== canary_level3_off_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run13" deleted from demo namespace
+=== canary_level3_off_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-off-vus10-run14" deleted from demo namespace
+=== canary_level3_off_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-off-vus10-run15" deleted from demo namespace
+=== canary_level3_off_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-off-vus10-run16" deleted from demo namespace
+=== canary_level3_off_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-off-vus10-run17" deleted from demo namespace
+=== canary_level3_off_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-off-vus10-run18" deleted from demo namespace
+=== canary_level3_off_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-off-vus10-run19" deleted from demo namespace
+=== canary_level3_off_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_off_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-off-vus10-run20" deleted from demo namespace
+=== canary_level3_errors_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 45s
+pod "k6-canary-level3-errors-vus10-run1" deleted from demo namespace
+=== canary_level3_errors_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run2" deleted from demo namespace
+=== canary_level3_errors_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run3" deleted from demo namespace
+=== canary_level3_errors_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-errors-vus10-run4" deleted from demo namespace
+=== canary_level3_errors_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 29s
+pod "k6-canary-level3-errors-vus10-run5" deleted from demo namespace
+=== canary_level3_errors_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-errors-vus10-run6" deleted from demo namespace
+=== canary_level3_errors_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run7" deleted from demo namespace
+=== canary_level3_errors_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-errors-vus10-run8" deleted from demo namespace
+=== canary_level3_errors_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run9" deleted from demo namespace
+=== canary_level3_errors_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run10" deleted from demo namespace
+=== canary_level3_errors_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run11" deleted from demo namespace
+=== canary_level3_errors_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 37s
+pod "k6-canary-level3-errors-vus10-run12" deleted from demo namespace
+=== canary_level3_errors_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 37s
+pod "k6-canary-level3-errors-vus10-run13" deleted from demo namespace
+=== canary_level3_errors_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run14" deleted from demo namespace
+=== canary_level3_errors_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-errors-vus10-run15" deleted from demo namespace
+=== canary_level3_errors_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 45s
+pod "k6-canary-level3-errors-vus10-run16" deleted from demo namespace
+=== canary_level3_errors_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-errors-vus10-run17" deleted from demo namespace
+=== canary_level3_errors_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 45s
+pod "k6-canary-level3-errors-vus10-run18" deleted from demo namespace
+=== canary_level3_errors_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "error-rate" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 45s
+pod "k6-canary-level3-errors-vus10-run19" deleted from demo namespace
+=== canary_level3_errors_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_errors_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Degraded - RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Error: The rollout is in a degraded state with message: RolloutAborted: Rollout aborted update to revision 2: Background analysis phase error/failed: Metric "k6-load-test" assessed Failed due to failed (1) > failureLimit (0)
+Trial finished: failed_or_timeout in 30s
+pod "k6-canary-level3-errors-vus10-run20" deleted from demo namespace
+=== canary_level3_latency_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run1" deleted from demo namespace
+=== canary_level3_latency_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-latency-vus10-run2" deleted from demo namespace
+=== canary_level3_latency_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-latency-vus10-run3" deleted from demo namespace
+=== canary_level3_latency_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-latency-vus10-run4" deleted from demo namespace
+=== canary_level3_latency_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run5" deleted from demo namespace
+=== canary_level3_latency_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run6" deleted from demo namespace
+=== canary_level3_latency_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-latency-vus10-run7" deleted from demo namespace
+=== canary_level3_latency_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-latency-vus10-run8" deleted from demo namespace
+=== canary_level3_latency_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-latency-vus10-run9" deleted from demo namespace
+=== canary_level3_latency_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run10" deleted from demo namespace
+=== canary_level3_latency_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run11" deleted from demo namespace
+=== canary_level3_latency_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-latency-vus10-run12" deleted from demo namespace
+=== canary_level3_latency_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-latency-vus10-run13" deleted from demo namespace
+=== canary_level3_latency_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-latency-vus10-run14" deleted from demo namespace
+=== canary_level3_latency_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run15" deleted from demo namespace
+=== canary_level3_latency_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-latency-vus10-run16" deleted from demo namespace
+=== canary_level3_latency_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-latency-vus10-run17" deleted from demo namespace
+=== canary_level3_latency_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-latency-vus10-run18" deleted from demo namespace
+=== canary_level3_latency_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run19" deleted from demo namespace
+=== canary_level3_latency_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_latency_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-latency-vus10-run20" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-memory-leak-vus10-run1" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-memory-leak-vus10-run2" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-memory-leak-vus10-run3" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run4" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run5" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-memory-leak-vus10-run6" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-memory-leak-vus10-run7" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-memory-leak-vus10-run8" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run9" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-memory-leak-vus10-run10" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-memory-leak-vus10-run11" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-memory-leak-vus10-run12" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run13" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run14" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-memory-leak-vus10-run15" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-memory-leak-vus10-run16" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-memory-leak-vus10-run17" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run18" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-memory-leak-vus10-run19" deleted from demo namespace
+=== canary_level3_memory_leak_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_memory_leak_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-memory-leak-vus10-run20" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 121s
+pod "k6-canary-level3-crash-loop-vus10-run1" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 79s
+pod "k6-canary-level3-crash-loop-vus10-run2" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 130s
+pod "k6-canary-level3-crash-loop-vus10-run3" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 113s
+pod "k6-canary-level3-crash-loop-vus10-run4" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 124s
+pod "k6-canary-level3-crash-loop-vus10-run5" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 131s
+pod "k6-canary-level3-crash-loop-vus10-run6" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 130s
+pod "k6-canary-level3-crash-loop-vus10-run7" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 122s
+pod "k6-canary-level3-crash-loop-vus10-run8" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 105s
+pod "k6-canary-level3-crash-loop-vus10-run9" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 136s
+pod "k6-canary-level3-crash-loop-vus10-run10" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 132s
+pod "k6-canary-level3-crash-loop-vus10-run11" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 126s
+pod "k6-canary-level3-crash-loop-vus10-run12" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 109s
+pod "k6-canary-level3-crash-loop-vus10-run13" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 110s
+pod "k6-canary-level3-crash-loop-vus10-run14" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 108s
+pod "k6-canary-level3-crash-loop-vus10-run15" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 100s
+pod "k6-canary-level3-crash-loop-vus10-run16" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 106s
+pod "k6-canary-level3-crash-loop-vus10-run17" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 107s
+pod "k6-canary-level3-crash-loop-vus10-run18" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - updated replicas are still becoming available
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 108s
+pod "k6-canary-level3-crash-loop-vus10-run19" deleted from demo namespace
+=== canary_level3_crash_loop_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_crash_loop_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 128s
+pod "k6-canary-level3-crash-loop-vus10-run20" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run1 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run1
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run1" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run2 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run2
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-downstream-db-slow-vus10-run2" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run3 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run3
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-downstream-db-slow-vus10-run3" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run4 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run4
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-downstream-db-slow-vus10-run4" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run5 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run5
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run5" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run6 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run6
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run6" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run7 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run7
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-downstream-db-slow-vus10-run7" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run8 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run8
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-downstream-db-slow-vus10-run8" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run9 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run9
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-downstream-db-slow-vus10-run9" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run10 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run10
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run10" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run11 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run11
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run11" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run12 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run12
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 66s
+pod "k6-canary-level3-downstream-db-slow-vus10-run12" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run13 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run13
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 60s
+pod "k6-canary-level3-downstream-db-slow-vus10-run13" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run14 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run14
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 62s
+pod "k6-canary-level3-downstream-db-slow-vus10-run14" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run15 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run15
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run15" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run16 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run16
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 67s
+pod "k6-canary-level3-downstream-db-slow-vus10-run16" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run17 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run17
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-downstream-db-slow-vus10-run17" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run18 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run18
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 61s
+pod "k6-canary-level3-downstream-db-slow-vus10-run18" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run19 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run19
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run19" deleted from demo namespace
+=== canary_level3_downstream_db_slow_vus10_run20 ===
+rollout.argoproj.io "exp-canary" deleted from demo namespace
+service "exp-canary-svc" deleted from demo namespace
+rollout.argoproj.io/exp-canary created
+service/exp-canary-svc created
+Progressing - updated replicas are still becoming available
+Healthy
+rollout.argoproj.io/exp-canary configured
+service/exp-canary-svc unchanged
+Starting trial: canary_level3_downstream_db_slow_vus10_run20
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Paused - CanaryPauseStep
+Progressing - more replicas need to be updated
+Progressing - updated replicas are still becoming available
+Progressing - old replicas are pending termination
+Progressing - waiting for all steps to complete
+Healthy
+Trial finished: healthy in 63s
+pod "k6-canary-level3-downstream-db-slow-vus10-run20" deleted from demo namespace
+Batch complete: canary_level3

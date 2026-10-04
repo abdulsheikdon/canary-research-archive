@@ -1,0 +1,24 @@
+apiVersion: argoproj.io/v1alpha1
+kind: AnalysisTemplate
+metadata:
+  name: prometheus-check
+  namespace: demo
+spec:
+  args:
+    - name: service-name
+  metrics:
+    - name: error-rate
+      initialDelay: 45s
+      interval: 30s
+      count: 2
+      successCondition: result < 0.1
+      failureLimit: 0
+      provider:
+        prometheus:
+          address: http://prometheus-kube-prometheus-prometheus.monitoring.svc.cluster.local:9090
+          query: |
+            scalar(
+              (sum(rate(app_errors_total{job="{{args.service-name}}"}[1m])) or vector(0))
+              /
+              ((sum(rate(app_requests_total{job="{{args.service-name}}"}[1m])) or vector(0)) + 0.001)
+            )

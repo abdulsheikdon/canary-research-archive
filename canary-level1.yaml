@@ -1,0 +1,52 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Rollout
+metadata:
+  name: exp-canary
+  namespace: demo
+spec:
+  replicas: 4
+  strategy:
+    canary:
+      steps:
+        - setWeight: 25
+        - pause: {duration: 30s}
+        - setWeight: 50
+        - pause: {duration: 30s}
+        - setWeight: 100
+  selector:
+    matchLabels:
+      app: exp-canary
+  template:
+    metadata:
+      labels:
+        app: exp-canary
+        run-id: "1790142383"  #added
+    spec:
+      containers:
+        - name: app
+          image: demo-app:v1
+          env:
+            - name: FAULT_MODE
+              value: "downstream_db_slow"
+          ports:
+            - containerPort: 8080
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8080
+            periodSeconds: 5
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: exp-canary-svc
+  namespace: demo
+  labels:
+    app: exp-canary
+spec:
+  selector:
+    app: exp-canary
+  ports:
+    - name: http
+      port: 80
+      targetPort: 8080
